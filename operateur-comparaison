@@ -1,0 +1,9 @@
+== : egal à
+=== : strictement égal ( type, chaine de cararctere, ....)
+!= : différent de
+|| (option+shift+l) :  ou
+&& : ET
+< : plus petit que
+> :  plus grand que
+<= : inférieur ou égal
+>= : supérieur ou égal
